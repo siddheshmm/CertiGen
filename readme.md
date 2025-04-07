@@ -1,7 +1,7 @@
  # CertiGen
-    #### Video Demo:  [CertiGen Demo YouTube](https://youtu.be/q_0YBFkE6RE)
+    **Video Demo**:  [CertiGen Demo YouTube](https://youtu.be/q_0YBFkE6RE)
 
-    #### Description: To automatically generate customized certificates for event attendees (webinars, workshops, competitions, etc.) with their names and details, exporting each as a PDF.
+    **Description**: To automatically generate customized certificates for event attendees (webinars, workshops, competitions, etc.) with their names and details, exporting each as a PDF.
     
 Hi, I’m Siddhesh, and this is my final project for CS50P — a Certificate Generator for Events, built in Python.
 
